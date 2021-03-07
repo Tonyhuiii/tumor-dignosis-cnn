@@ -2,7 +2,7 @@
 
 ## Environment
 ● Ubuntu 20.04  
-● NVIDIA RTX3090 
+● NVIDIA RTX3090  
 ● CUDA 11.1
 ## Prerequisites
 ● Python 3.8.5  
