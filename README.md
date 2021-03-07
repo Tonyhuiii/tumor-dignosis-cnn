@@ -6,4 +6,5 @@
 ● CUDA 11.1
 ## Prerequisites
 ● Python 3.8.5  
-● [PyTorch](https://pytorch.org/) 1.7.1 
+● [PyTorch](https://pytorch.org/) 1.7.1  
+● openslide
